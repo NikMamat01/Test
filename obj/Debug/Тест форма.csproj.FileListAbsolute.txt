@@ -1,0 +1,10 @@
+C:\Users\stud\Desktop\Жерновская\Тест форма\bin\Debug\Тест форма.exe.config
+C:\Users\stud\Desktop\Жерновская\Тест форма\bin\Debug\Тест форма.exe
+C:\Users\stud\Desktop\Жерновская\Тест форма\bin\Debug\Тест форма.pdb
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест форма.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест_форма.Рандом.resources
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест_форма.Properties.Resources.resources
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест форма.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест форма.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест форма.exe
+C:\Users\stud\Desktop\Жерновская\Тест форма\obj\Debug\Тест форма.pdb
